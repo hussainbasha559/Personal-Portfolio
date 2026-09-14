@@ -2,7 +2,7 @@
 
 Personal portfolio website for **Shaik Hussainbasha** — Aspiring Python Developer, AI/ML & Data Enthusiast. Built as a single-page, responsive site with a terminal-style hero animation, skills overview, projects, education/internship timelines, certifications, and a working contact form.
 
-**Live site:** 
+**Live site:** shaikhussainbasha-portfolio.netlify.app
 
 ## ✨ Features
 
